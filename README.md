@@ -1,1 +1,1 @@
-# docker-compose-ssl-redirect-imgCustom
+# Automatic ssl with ngninx and redirection
